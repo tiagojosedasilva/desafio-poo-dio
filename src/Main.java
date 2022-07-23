@@ -26,6 +26,5 @@ public class Main {
         curso2.setDescricao("Desrição do curso");
         curso2.setCargaHoraria(7);
         System.out.println(curso2);
-
     }
 }
